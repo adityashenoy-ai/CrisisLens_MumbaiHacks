@@ -60,8 +60,7 @@ CrisisLens provides **verification-first crisis intelligence** through:
 ```bash
 # 1. Clone repository
 git clone https://github.com/adityashenoy-ai/CrisisLens_MumbaiHacks.git
-
-cd crisis-lens
+cd CrisisLens_MumbaiHacks
 
 # 2. Install dependencies
 pip install -e .
